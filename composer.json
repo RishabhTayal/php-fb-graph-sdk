@@ -1,5 +1,5 @@
 {
-    "name": "rishabhtayal/php-sdk-v4",
+    "name": "rishabhtayal/graph-sdk",
     "description": "Facebook SDK for PHP",
     "keywords": ["facebook", "sdk"],
     "type": "library",
